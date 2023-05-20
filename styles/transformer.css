@@ -1,0 +1,12 @@
+.conteiner{
+    width: 150px;
+    height: 150px;
+    border: 2px solid khaki;
+    background-color: darkkhaki;
+}
+.conteiner-title{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    transform: scale(.50) rotate(30deg) translate(50px,50px);
+}
