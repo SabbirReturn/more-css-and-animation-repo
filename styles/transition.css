@@ -6,8 +6,16 @@
     background-color: brown;
     transition: height 2s, width 2s, transform 3s;
 }
+.title{
+    transition: margin 2s;
+    margin: 100px;
+}
 .box:hover{
     height: 400px;
     width: 400px;
     transform: rotate(70deg);
+    
+}
+.title:hover{
+    font-size: 100px;
 }
